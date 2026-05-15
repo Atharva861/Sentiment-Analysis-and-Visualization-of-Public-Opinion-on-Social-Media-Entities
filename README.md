@@ -1,4 +1,4 @@
-# Task-4-Sentiment-Analysis-and-Visualization-of-Public-Opinion-on-Social-Media-Entities
+# Sentiment-Analysis-and-Visualization-of-Public-Opinion-on-Social-Media-Entities
 The task was carried out to analyze and visualize sentiment patterns in social media data. Public opinion and attitudes toward various entities and brands were examined by processing tweet content, identifying sentiment labels, and exploring linguistic trends. Key insights were derived using statistical visualizations and word frequency analysis to understand how entities are perceived in online conversations.
 
 ## Features Used in the Task:
